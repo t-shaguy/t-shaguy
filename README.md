@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @t-shaguy
 - 👀 I’m interested in ...enterprise technology, payment systems, fintechs, telecommunications, automation, digitization
 - 🌱 I’m currently learning ...php, nodejs, c#
-- 💞️ I’m looking to collaborate on ... Fintech, InsureTech, HealthTech, AI/ML and all other exciting stuff
+- 💞️ I’m looking to collaborate on ... Fintech, InsureTech, HealthTech, AI/ML and all other exciting stuff, I speak fluent Java and that is my major means of communication
 - 📫 How to reach me ...08036533888, taysaycoding@gmail.com
 
 <!---
